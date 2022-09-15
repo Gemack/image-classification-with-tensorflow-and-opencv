@@ -30,5 +30,5 @@ have the "relu" activation function, while the output "softmax", for the lost fu
 not one hot encoded.The popular "adam optimizer" was used as the optimizer function, 
 and accuracy was the evaluation matrix used in evaluating our model.
 
-# **THIS MODELS IS AS GOOD AS THE DATA USED IN TRAINING IT**.
+# **THIS MODEL IS AS GOOD AS THE DATA USED IN TRAINING IT**.
 
