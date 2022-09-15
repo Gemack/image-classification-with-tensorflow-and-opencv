@@ -19,7 +19,7 @@ and
 ### SOFA.
  ![Screenshot (138)](https://user-images.githubusercontent.com/76667791/190285592-9521df44-c8b2-40a1-944f-0f98edda2629.png)
 
-the pythoncode used in this notebook makes this model very much flexible and can be adjusted for more 
+the python code used in this notebook makes this model very much flexible and can be adjusted for more 
 classification.Open CV which is a powerful library in Python, Java and C++ for image and video manipulation was used to load
 and perform some minor preprocessing like resizing and grayscaling before feeding images into the network
 the model had a 96% accuracy. with 3 layers an input hidden and output layer the input and hidden layer both
@@ -28,5 +28,5 @@ have the "relu" activation function, while the output "softmax", for the lost fu
 not one hot encoded.The popular "adam optimizer" was used as the optimizer function, 
 and Accuracy was the evaluation matrix used because our data was even.
 
-# **THIS MODELS IS AS GOOD AS THE DATA USED IN TRAINING IT.
+# **THIS MODELS IS AS GOOD AS THE DATA USED IN TRAINING IT**.
 
