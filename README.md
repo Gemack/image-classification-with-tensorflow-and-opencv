@@ -28,7 +28,7 @@ the model had a 96% accuracy. with 3 layers an input hidden and output layer the
 have the "relu" activation function, while the output "softmax", for the lost function the
 "sparse_categorical_crossentropy" was used instead of the categorical crossentropy because data used was 
 not one hot encoded.The popular "adam optimizer" was used as the optimizer function, 
-and Accuracy was the evaluation matrix used because our data was even.
+and accuracy was the evaluation matrix used in evaluating our model.
 
 # **THIS MODELS IS AS GOOD AS THE DATA USED IN TRAINING IT**.
 
