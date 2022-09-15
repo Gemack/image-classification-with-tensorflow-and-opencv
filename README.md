@@ -2,7 +2,7 @@
 
 [Check out my post on Neuron Network on Hashnode](https://emack.hashnode.dev/understanding-artificial-neuron-network)
 
-My post on Neural network on hashnode.
+
 
 This model uses tensorflow to apply deep learning in image classification of product in an Ecommerce store,
 this model is trained on the following ecommerce product
