@@ -1,4 +1,4 @@
-## IMAGE RECOGNITION USING CONVOLUTIONAL NEURAL NETWORK (CNN)
+## IMAGE CLASSIFICATION USING CONVOLUTIONAL NEURAL NETWORK (CNN)
 
 [Check out my post on Neuron Network on Hashnode](https://emack.hashnode.dev/understanding-artificial-neuron-network)
 
